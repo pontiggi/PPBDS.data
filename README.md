@@ -2,6 +2,7 @@
 <!-- README is generated from README.Rmd, edit ONLY this file if needed. But, after you edit it, you NEED TO KNIT IT BY HAND in order to create the new README.md, which is the thing which is actually used. -->
 # Data for *Preceptor’s Primer for <br/> Bayesian Data Science* <img src="man/figures/ulysses_hex_black.png" align = "right"  width="160">
 
+
 <!-- badges: start -->
 [![R build status](https://github.com/davidkane9/PPBDS.data/workflows/R-CMD-check/badge.svg)](https://github.com/davidkane9/PPBDS.data/actions)
 <!-- badges: end -->
